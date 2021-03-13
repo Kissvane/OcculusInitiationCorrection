@@ -1732,7 +1732,7 @@ MonoBehaviour:
   lineRenderer: {fileID: 1731417594}
   grabbable:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 64
   teleport:
     serializedVersion: 2
     m_Bits: 128
@@ -1815,7 +1815,7 @@ MonoBehaviour:
   lineRenderer: {fileID: 1430165913}
   grabbable:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 64
   teleport:
     serializedVersion: 2
     m_Bits: 128
